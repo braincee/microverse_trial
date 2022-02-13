@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: skyblue;
+  }
+
+  #dropdown {
+    margin-right: 25%;
+    margin-top: 20px;
+  }
+  #comment {
+    margin-right: 18%;
+    margin-top: 20px;
+  }
+  #submit {
+    margin-top: 20px;
+    margin-left: 10px;
+  }
